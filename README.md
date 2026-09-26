@@ -411,18 +411,6 @@ I learned how to:
 
 Most importantly, the exercises helped me understand that numerical programming is not only about getting an output. It is also about understanding what the output means and how it can be useful.
 
----
-
-# Project Structure
-
-A possible GitHub repository structure is:
-
-```text
-Industry-Based-Hands-On-Exercises/
-│
-├── Industry-Based Hands-On Exercises.ipynb
-│
-└── README.md
 ```
 
 The main notebook contains the Python/NumPy code, outputs, Markdown explanations, interpretations, and the Bonus Challenge.
@@ -448,23 +436,6 @@ The exercise instructions allow the work to be completed using either Jupyter No
 3. Run the cells from top to bottom.
 4. Check the outputs.
 5. Save or download the completed notebook.
-
----
-
-# Submission Checklist
-
-Before submission, the notebook should:
-
-* [x] Run without errors
-* [x] Contain the required NumPy code
-* [x] Contain Markdown explanations
-* [x] Display the results
-* [x] Include interpretation of the results
-* [x] Include the three Hands-On Exercises
-* [x] Include the Bonus Challenge
-* [x] Have a clear notebook/repository name
-* [ ] Be uploaded to GitHub
-* [ ] Have the GitHub link shared according to the MLSG submission workflow
 
 ---
 
