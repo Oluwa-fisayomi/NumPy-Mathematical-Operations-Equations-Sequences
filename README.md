@@ -411,7 +411,7 @@ I learned how to:
 
 Most importantly, the exercises helped me understand that numerical programming is not only about getting an output. It is also about understanding what the output means and how it can be useful.
 
-```
+---
 
 The main notebook contains the Python/NumPy code, outputs, Markdown explanations, interpretations, and the Bonus Challenge.
 
